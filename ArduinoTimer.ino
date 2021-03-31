@@ -1,7 +1,7 @@
 /*
 Arduino Timer 1.0 
 
-by Affe130
+By Affe130
 
 Description:
 A adjusteble timer that displays the time on a LCD, blinks with a LED and beeps using a piezo/speaker
