@@ -39,7 +39,7 @@ char lcdLine2[16];
 
 bool timerActive;
 
-int cursorPosition;
+unsigned int cursorPosition;
 
 void setup() { //Code that runs once
   pinMode(ledPin, OUTPUT);
